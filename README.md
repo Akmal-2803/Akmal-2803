@@ -1,17 +1,17 @@
 # Salom, men Akmal! 👋
 
 ### Men haqimda 👨‍💻
-- 🚀 Hozirda Backend dasturlash yoʻnalishida loyihalar yaratyapman.
-- 📚 Doimiy ravishda yangi texnologiyalarni va algoritmlarni oʻrganyapman.
-- 💼 Kelajakda kuchli jamoalarda katta loyihalar ustida ishlash niyatidaman.
+- 🚀 Python va Backend dasturlash yoʻnalishida amaliy loyihalar ustida ishlayapman.
+- ⚙️ Python yordamida telegram botlar, avtomatlashtirilgan skriptlar va dasturiy yechimlar yaratyapman.
+- 📚 Algoritmlar, ma'lumotlar tuzilmasi va backend arxitekturasini chuqur o'rganyapman.
+- 💼 Kuchli jamoalarda katta loyihalar ustida ishlashni va tajriba orttirishni maqsad qilganman.
 
 ### Texnologiyalar va Vositalar 🛠️
-- Dasturlash tillari: JavaScript, Python (o'zingiz biladigan tillarni yozing)
-- Backend: Node.js, Express, Databases
-- Vositalar: Git, GitHub, VS Code
+- Dasturlash tili: Python 🐍
+- Ishchi muhit: VS Code, Git, GitHub 🧰
 
 ### Aloqa 📬
-- Email: akmal.backend@gmail.com
+- 📧 Email: akmal.backend@gmail.com
 
 <!--
 **Akmal-2803/Akmal-2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
