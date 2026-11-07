@@ -3,7 +3,7 @@
 
 ### Men haqimda 👨‍💻
 - 🚀 Hozirda Python va Backend dasturlash yoʻnalishida chuqur bilim olyapman.
-- ⚙️ Python yordamida telegram botlar, skriptlar va dasturlar yaratishga qiziqaman.
+- ⚙️ Python yordamida telegram botlar, skriptlar va dasturlar yaratmoqdaman
 - 📚 Algoritmlar va ma'lumotlar omborini o'rganyapman.
 
 ### Texnologiyalar va Vositalar 🛠️
